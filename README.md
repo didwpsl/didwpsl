@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @didwpsl
 - 👀 I’m interested in ... Marvel (Especially Guardians of the Galaxy and Eternals) , Game
-- 🌱 I’m currently learning ... Java, JS, DB and whatnot.. 
+- 🌱 I’m currently learning ... Java, JS, SQL and whatnot.. 
 
 
 NOTION
