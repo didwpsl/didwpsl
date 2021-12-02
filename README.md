@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @didwpsl
+- 👋 Hi, I’m @didwpsl! My real name is soyoung yang but normally I go by Jenny especially when I'm with international friends :)
 - 👀 I’m interested in ... Marvel (Especially Guardians of the Galaxy and Eternals) , Game
 - 🌱 I’m currently learning ... Java, JS, SQL and whatnot.. 
 
