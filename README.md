@@ -7,6 +7,7 @@ Starting web development on the backend with JAVA and I was struggling (In fact,
 NOTION
 https://fallacious-battery-fb2.notion.site/c20f257d33744f88a005fda8e5250d3c?v=ed8ee09ac490483d8ac201c4c530e346
 
- 
+CODING PLAYLIST
+https://www.youtube.com/watch?v=5JxgDJvqGmM&list=PLffGWlmqdUbIzPz5GONiVtkvMz0z3Zp7A
  
  
