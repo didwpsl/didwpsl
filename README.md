@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @didwpsl! My real name is soyoung yang but normally I go by Jenny especially when I'm with international friends :)
+- 👋  Hi, I’m @didwpsl! My real name is soyoung yang but normally I go by Jenny especially when I'm with international friends :)
+-     Hola mucho gusto. Mi nombre es Jenny, estoy estudiando desarrollo web. Actualmente aprendiendo español  :)
+-     おはよ！ソヨンだよ- 前に日本のスタバで働いてたよー横浜に住んでた！今プログラミングを勉強している　:)
 - 👀 I’m interested in ... Marvel (Especially Guardians of the Galaxy and Eternals) , Game
 - 🌱 I’m currently learning ... Java, JS, SQL and whatnot.. 
 - :heart:
